@@ -32,7 +32,7 @@ export class AppComponent {
     },
     {
       title: 'Conta',
-      url: '/home',
+      url: '/register',
       icon: 'list'
     },
   ];

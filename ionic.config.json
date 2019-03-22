@@ -1,5 +1,7 @@
 {
   "name": "INCOR",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
