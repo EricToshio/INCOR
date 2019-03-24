@@ -15,11 +15,26 @@ export class AppComponent {
       url: '/home',
       icon: 'home'
     },
+    // {
+    //   title: 'List',
+    //   url: '/list',
+    //   icon: 'list'
+    // },
     {
-      title: 'List',
-      url: '/list',
+      title: 'Exercícios',
+      url: '/home',
       icon: 'list'
-    }
+    },
+    {
+      title: 'Dúvidas',
+      url: '/home',
+      icon: 'list'
+    },
+    {
+      title: 'Conta',
+      url: '/register',
+      icon: 'list'
+    },
   ];
 
   constructor(
